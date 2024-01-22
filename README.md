@@ -2,7 +2,7 @@
 
 ## union-testnet-5 
 
-The Union Testnet offers a reliable and efficient testing environment for developers. Below are the key endpoints for accessing the Union Testnet.
+The `union-testnet-5` offers a reliable and efficient testing environment for developers. Below are the key endpoints for accessing the testnet.
 
 ### gRPC Endpoint
 
@@ -13,11 +13,11 @@ Use the following link for the gRPC endpoint:
 
 ### RPC Endpoint
 
-Access the RPC endpoint for Union Testnet at:
+Access the RPC endpoint for Union testnet at:
 
 - RPC endpoint `https://union-rpc.decali.io:443`
 
-### REST API Endpoint
+### REST API endpoint
 
 Use the following for the API endpoint:
 
