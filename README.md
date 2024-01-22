@@ -2,7 +2,7 @@
 
 ## union-testnet-5 
 
-The Union Testnet (UNO) offers reliable and efficient testing environment for developers. Below are the key endpoints for accessing the Union Testnet.
+The Union Testnet offers a reliable and efficient testing environment for developers. Below are the key endpoints for accessing the Union Testnet.
 
 ### gRPC Endpoint
 
